@@ -10,9 +10,9 @@ const Profile = () => {
             </picture>
 
             <nav className='links'>
-                <a>Resumo</a>
-                <a>Formação Academica</a>
-                <a>qualificações</a>
+                <a onMouseEnter={() => this.setState({ showSomething: true })}>Resumo</a>
+                <a onMouseEnter={() => this.setState({ showSomething: true })}>Formação Academica</a>
+                <a onMouseEnter={() => this.setState({ showSomething: true })}>qualificações</a>
                 <br></br>
                 <Link to={'/'}>voltar</Link>
 
