@@ -10,9 +10,9 @@ const Profile = () => {
             </picture>
 
             <nav className='links'>
-                <a href="#">Resumo</a>
-                <a href="#">Formação Academica</a>
-                <a href="#">qualificações</a>
+                <a href="#" onClick={foo}>Resumo</a>
+                <a href="#" onClick={foo}>Formação Academica</a>
+                <a href="#" onClick={foo}>qualificações</a>
                 <br></br>
                 <Link to={'/'}>voltar</Link>
 
