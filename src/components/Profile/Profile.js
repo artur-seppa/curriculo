@@ -10,7 +10,7 @@ const Profile = () => {
             </picture>
 
             <nav className='links'>
-                <a href="corpo.js/resumo">Resumo</a>
+                <a href="#">Resumo</a>
                 <a href="#">Formação Academica</a>
                 <a href="#">qualificações</a>
                 <br></br>
