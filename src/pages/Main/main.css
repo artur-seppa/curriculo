@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    width: 100%; 
+}
+
+.estrutura{
+    background-color: white;
+    border-radius: 13px;
+    box-shadow: 0px 4px 4px 0px;
+}
+
+.botao{
+    background-color: #252525;
+    width: auto;
+    box-sizing: border-box;
+    border-radius: 8px;
+    padding: 0px 4%;
+    margin-left: 100px;
+}
+
+@media (max-width: 600px){
+    .container{
+        flex-direction: column;
+    }
+    .botao{
+        padding: 0px 35%;
+        margin-left: 0px;
+        border-radius: 30px;
+    }
+   
+}
+
+
