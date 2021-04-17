@@ -23,7 +23,6 @@ img{
 
 /*==========links===========*/
 .links{
-    font-size: 20px;
     display: flex;
     flex-direction: column;
     align-items:center;
@@ -63,7 +62,6 @@ a{
         display: flex;
         flex-direction: column;
         align-items:flex-end;
-        font-size: 14px;
         margin-right: 15px;
         padding: 7px;
     }
@@ -86,6 +84,7 @@ a{
 
     .links{
         flex-wrap: nowrap;
+        font-size: 17px;
     }
 
 }
