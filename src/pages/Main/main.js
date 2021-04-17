@@ -5,8 +5,8 @@ import '../../pages/Main/main.css'
 function Main() {
     return ( 
         <div className='estrutura'>
-            <h2>Seja Bem-Vindo!</h2>
-            <p>Para acessar o meu curriculo clique no botão abaixo</p>
+            <h2 className='titulo'>Seja Bem-Vindo!</h2>
+            <p className='titulo'>Para acessar o meu curriculo clique no botão abaixo</p>
 
             <p className='container'>
             <Link to={'/Curriculo'} className='botao'>visualizar</Link>

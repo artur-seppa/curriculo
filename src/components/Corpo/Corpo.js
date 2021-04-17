@@ -11,7 +11,6 @@ const Corpo = () => {
                 <p>
                 Endereço: Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br></br>
                 Telefone: (061) 99999-9999 | E-mail: artur.reiman@gmail.com <br></br>
-                LinkedIn: linkedin.com/in/artur-seppa-reiman-4994ab1b4 <br></br>
                 20 anos, solteiro, brasileiro 
                 </p>
 

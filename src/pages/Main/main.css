@@ -5,8 +5,11 @@
 
 .estrutura{
     background-color: white;
-    border-radius: 13px;
     box-shadow: 0px 4px 4px 0px;
+}
+
+.titulo{
+    font-weight: 200;
 }
 
 .botao{
@@ -16,6 +19,8 @@
     border-radius: 8px;
     padding: 0px 4%;
     margin-left: 100px;
+
+    font-weight: 400;
 }
 
 @media (max-width: 600px){

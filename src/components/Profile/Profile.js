@@ -10,9 +10,10 @@ const Profile = () => {
             </picture>
 
             <nav className='links'>
-                <a onMouseEnter={() => this.setState({ showSomething: true })}>Resumo</a>
-                <a onMouseEnter={() => this.setState({ showSomething: true })}>Formação Academica</a>
-                <a onMouseEnter={() => this.setState({ showSomething: true })}>qualificações</a>
+
+                <a href="linkedin.com/in/artur-seppa-reiman-4994ab1b4">linkedin</a>
+                <a href="https://www.instagram.com/_seppa/">Istagram</a>
+                <a href="https://twitter.com/_seppa?lang=pt">Twitter</a>
                 <br></br>
                 <Link to={'/'}>voltar</Link>
 
