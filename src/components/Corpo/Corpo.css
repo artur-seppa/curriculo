@@ -32,7 +32,6 @@ h1 ,h2, p{
     margin: 25px;
     padding: 0px 15px;
 
-
 }
 
 @media (min-width:600px){
@@ -43,7 +42,7 @@ h1 ,h2, p{
 
     .conteudo-corpo{
         height: 100%;
-        font-size: 14px;
+        font-size: 17px;
     }
 
 }
@@ -59,12 +58,13 @@ h1 ,h2, p{
     }
 
     h1 ,h2{
-        font-weight: 550;
+        font-weight: 600;
     }
-
 
     .conteudo-corpo{
-        font-size: 13px;
+        height: 100%;
+        font-size: 15px;
     }
+
 }
 
