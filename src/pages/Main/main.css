@@ -10,6 +10,7 @@
 
 .titulo{
     font-weight: 200;
+    font-size: 18px;
 }
 
 .botao{
@@ -21,6 +22,7 @@
     margin-left: 100px;
 
     font-weight: 400;
+    font-size: 18px;
 }
 
 @media (max-width: 600px){

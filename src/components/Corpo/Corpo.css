@@ -57,10 +57,6 @@ h1 ,h2, p{
         flex-wrap: nowrap;
     }
 
-    h1 ,h2{
-        font-weight: 600;
-    }
-
     .conteudo-corpo{
         height: 100%;
         font-size: 15px;
